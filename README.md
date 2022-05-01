@@ -14,11 +14,11 @@ Skills: C# / C++
 - 🌱 I’m currently learning  .Net ,  C# 
  
   
-<!--   <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a align =" left" href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=TeamLider9141&count_private=true&show_icons=true&theme=radical" />
-</a> -->
+</a> 
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeamLider9141&layout=compact)](https://github.com/TeamLider9141/github-readme-stats)
+ [ align =" right" ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeamLider9141&layout=compact)](https://github.com/TeamLider9141/github-readme-stats)
  
   
   <img src="https://github.com/TeamLider9141/TeamLider9141/blob/main/7SvE.gif" align="right"   height="450" width="500">
