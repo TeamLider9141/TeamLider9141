@@ -14,10 +14,10 @@ Skills: C# / C++
 - 🌱 I’m currently learning  .Net ,  C# 
  
   
-  <a align =" left" href="https://github.com/anuraghazra/github-readme-stats">
+  <a  href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=TeamLider9141&count_private=true&show_icons=true&theme=radical" />
 </a> 
- [ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeamLider9141&layout=compact)](https://github.com/TeamLider9141/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeamLider9141&layout=compact)](https://github.com/TeamLider9141/github-readme-stats)
 
 
   
