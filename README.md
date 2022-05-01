@@ -20,4 +20,4 @@ Skills: C# / C++
   
   <img src="https://github.com/TeamLider9141/TeamLider9141/blob/main/7SvE.gif" align="right"   height="300" width="400">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeamLider9141&layout=compact)](https://github.com/TeamLider9141/github-readme-stats)
