@@ -18,7 +18,7 @@ Skills: C# / C++
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=TeamLider9141&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/TeamLider9141/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeamLider9141" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeamLider9141" />
 </a>
   
 <img src="https://github.com/TeamLider9141/TeamLider9141/blob/main/7SvE.gif" align="right"   height="350" width="280">
