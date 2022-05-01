@@ -16,3 +16,10 @@ Skills: C# / C++
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TeamLider9141&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/TeamLider/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TeamLider9141&repo=convoychat" />
+</a>
