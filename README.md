@@ -12,9 +12,15 @@ Skills: C# / C++
   
 - 🔭 I’m currently working on Robocontest 
 - 🌱 I’m currently learning  .Net ,  C# 
+ 
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeamLider9141)](https://github.com/TeamLider9141/github-readme-stats)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=TeamLider9141&count_private=true&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/TeamLider9141/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeamLider9141" />
+</a>
   
 <img src="https://github.com/TeamLider9141/TeamLider9141/blob/main/7SvE.gif" align="right"   height="350" width="280">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeamLider&layout=compact)](https://github.com/TeamLider/github-readme-stats)
+
