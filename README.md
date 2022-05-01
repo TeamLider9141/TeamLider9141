@@ -17,10 +17,7 @@ Skills: C# / C++
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=TeamLider9141&count_private=true&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/TeamLider9141/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeamLider9141" />
-</a>
   
-<img src="https://github.com/TeamLider9141/TeamLider9141/blob/main/7SvE.gif" align="right"   height="300" width="400">
+  <img src="https://github.com/TeamLider9141/TeamLider9141/blob/main/7SvE.gif" align="right"   height="300" width="400">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
