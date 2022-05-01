@@ -4,8 +4,8 @@ I'm Ortiq from Uzbekistan, and I do content on Dot-Net(C#) and Development. I re
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/TeamLider9141)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/teamlider9141)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://myurls.bio/ortiqakbarovich)  
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning this page. 
+- 🔭 I’m currently working on Robocontest 
+- 🌱 I’m currently learning  .Net , Csharp basic 
 
 
 <h3 align="left">Connect with me:  https://myurls.bio/ortiqakbarovich</h3>
