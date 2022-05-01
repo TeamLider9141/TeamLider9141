@@ -21,6 +21,6 @@ Skills: C# / C++
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeamLider9141" />
 </a>
   
-<img src="https://github.com/TeamLider9141/TeamLider9141/blob/main/7SvE.gif" align="right"   height="350" width="280">
+<img src="https://github.com/TeamLider9141/TeamLider9141/blob/main/7SvE.gif" align="right"   height="300" width="400">
   
 
