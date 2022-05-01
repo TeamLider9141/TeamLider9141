@@ -8,16 +8,16 @@ I'm Ortiq from Uzbekistan, and I do content on Dot-Net(C#) and Development. I re
 - 🌱 I’m currently learning  .Net ,  C# 
 
 
-<h3 align="left">Connect with me:  https://myurls.bio/ortiqakbarovich</h3>
-<p align="left">
+<h3 align="right">Connect with me:  https://myurls.bio/ortiqakbarovich</h3>
+<p align="right">
 </p>
 
 Skills: C# / C++ 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeamLider9141)](https://github.com/TeamLider9141/github-readme-stats)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
+<h3 align="right">Languages and Tools:</h3>
+<p align="right"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> </a> </p>
 
 <img src="https://github.com/TeamLider9141/TeamLider9141/blob/main/7SvE.gif" align="right"   height="244" width="340">
 
