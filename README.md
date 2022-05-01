@@ -6,8 +6,10 @@ I'm Ortiq from Uzbekistan, and I do content on Dot-Net(C#) and Development. I re
 </p>
 Skills: C# / C++ 
 
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TeamLider9141&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+  <img src="https://github.com/TeamLider9141/TeamLider9141/blob/main/7SvE.gif" align="right"   height="450" width="500">
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -23,4 +25,4 @@ Skills: C# / C++
 </a> 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeamLider9141&layout=compact)](https://github.com/TeamLider9141/github-readme-stats)
   
-  <img src="https://github.com/TeamLider9141/TeamLider9141/blob/main/7SvE.gif" align="right"   height="450" width="500">
+
