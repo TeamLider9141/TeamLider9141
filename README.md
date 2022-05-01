@@ -5,11 +5,11 @@ I'm Ortiq from Uzbekistan, and I do content on Dot-Net(C#) and Development. I re
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/TeamLider9141)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/teamlider9141)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://myurls.bio/ortiqakbarovich)  
 </p>
 Skills: C# / C++ 
-
+ <img src="https://github.com/TeamLider9141/TeamLider9141/blob/main/7SvE.gif" align="right"   height="450" width="500">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TeamLider9141&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-  <img src="https://github.com/TeamLider9141/TeamLider9141/blob/main/7SvE.gif" align="right"   height="450" width="500">
+ 
 
 <h3 align="left">Languages and Tools:</h3>
 
