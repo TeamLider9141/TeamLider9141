@@ -1,4 +1,4 @@
-### Hi there 👋, Ortiq Akbarovich
+### Hi there 👋, I am Ortiq Akbarovich
 #### .Net Developer
 I'm Ortiq from Uzbekistan, and I do content on Dot-Net(C#) and Development. I really enjoy learning languages and frameworks like Csharp ,C++, as well as work in Visual Studio. I like to play different video games, reading a book,mathematics, training sport , design and solve logic puzzles. I am currently a Software Engineering Developer and a 2nd year student at TUIT (in Uzbekistan). 
 
