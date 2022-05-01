@@ -14,6 +14,7 @@ Skills: C# / C++
 - 🌱 I’m currently learning  .Net ,  C# 
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeamLider9141)](https://github.com/TeamLider9141/github-readme-stats)
+  
 <img src="https://github.com/TeamLider9141/TeamLider9141/blob/main/7SvE.gif" align="right"   height="350" width="280">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeamLider&layout=compact)](https://github.com/TeamLider/github-readme-stats)
