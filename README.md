@@ -12,8 +12,6 @@ I'm Ortiq from Uzbekistan, and I do content on Dot-Net(C#) and Development. I re
 <p align="left">
 </p>
 
- <img src="https://i.gifer.com/7SvE.gif" height="488" width="680">
-
 Skills: C# / C++ 
 
 <h3 align="left">Languages and Tools:</h3>
