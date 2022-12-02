@@ -22,6 +22,7 @@ Skills: C# / C++
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=TeamLider9141&count_private=true&show_icons=true&theme=radical" />
+https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=TeamLider9141&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866
 </a>
 <a href="https://github.com/TeamLider9141?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeamLider9141" />
