@@ -25,5 +25,5 @@ Skills: C# / C++
 
 </a>
 <a href="https://github.com/TeamLider9141?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeamLider9141" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TeamLider9141&count_private=true&show_icons=true&theme=radical" />
 </a>
