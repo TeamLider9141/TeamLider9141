@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Ortiq Akbarovich
 #### .Net (Back-End) Developer
-I'm Ortiq from Uzbekistan, and I do content on Dot-Net (C#) and development. I really enjoy learning languages (C#, C++) and frameworks (ASP.NET), as well as working in Visual Studio. I like to play different video games, read a book, study mathematics, train in sports, design and solve logic puzzles. I am currently a Software Engineering Developer and a fourth-year student at TUIT (in Uzbekistan). 
+I'm Ortiq from Uzbekistan, and I do content on Dot-Net (C#) and development. I really enjoy learning languages (C#, C++) and frameworks (ASP.NET), as well as working in Visual Studio. I like to play different video games, read a book, study mathematics, train in sports, design, and solve logic puzzles. I am currently a Software Engineer with a Bachelor's DEGREE  at TUIT (in Uzbekistan). 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/TeamLider9141)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/teamlider9141)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://myurls.bio/ortiqakbarovich)  
 </p>
@@ -17,7 +17,7 @@ Skills: C# / C++
 <p align="right">
   
 - 🔭 I’m currently working on Robocontest 
-- 🌱 I’m currently learning  .Net ,  C# 
+- 🌱 I’m currently learning  Data Science, .Net ,  C# 
  
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
