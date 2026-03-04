@@ -19,12 +19,13 @@ Skills: C# / C++
 - 🔭 I’m currently working on Robocontest 
 - 🌱 I’m currently learning  Data Science, .Net ,  C# 
  
-  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=TeamLider9141&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
+## GitHub Stats
 
- 
-</a>
-<a href="https://github.com/TeamLider9141?tab=repositories">
-  <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=TeamLider9141&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
-</a>
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TeamLider9141&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TeamLider9141&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TeamLider9141&theme=tokyonight&hide_border=true"/>
+</p>
