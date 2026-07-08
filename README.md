@@ -2,84 +2,86 @@
 
 ### AI Engineer | Data Science Student | Python Developer
 
-I'm passionate about building intelligent software powered by data and modern AI.
+I'm a Software Engineering graduate from **Tashkent University of Information Technologies (TUIT)** with a strong interest in **Artificial Intelligence**, **Machine Learning**, and modern backend development.
 
-My current focus is on **Machine Learning**, **Retrieval-Augmented Generation (RAG)**, **Large Language Models (LLMs)**, **Natural Language Processing (NLP)**, and AI-powered applications.
+My primary focus is building intelligent applications powered by **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **Natural Language Processing (NLP)**, and data-driven systems.
 
-I enjoy designing complete AI systems—from data collection and preprocessing to model development, vector databases, backend APIs, and deploying production-ready solutions.
+Beyond AI, I enjoy building complete backend solutions using **Python**, **FastAPI**, **Telegram Bot API**, **PostgreSQL**, **Docker**, and **Linux**. I believe the best way to learn is by building real-world projects and continuously improving them.
 
-Alongside AI, I work with **Python**, **SQL**, **Linux**, **Docker**, **PostgreSQL**, **Git**, and cloud technologies while continuously expanding my knowledge of modern Data Science and Machine Learning.
+---
 
-I believe the best way to learn is by building real projects, so most of my time is spent experimenting with new ideas and turning them into practical software.
+### 🚀 Featured Projects
 
-🎓 **Bachelor's Degree in Software Engineering** — Tashkent University of Information Technologies (TUIT)
+#### 🤖 JOA — Local AI Coding Agent
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TeamLider9141)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/Teamlider9141)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://myurls.bio/ortiqakbarovich)
+A local AI coding assistant powered by **Ollama**, **LlamaIndex**, and **RAG** for intelligent code understanding and document retrieval.
 
-</p>
+#### 💰 QarzFlow
 
-**Skills:** Python • SQL • Linux • Docker • PostgreSQL • Git • C++ • C#
+An expense and debt management platform built around a **Telegram Bot**, backend APIs, and a web dashboard.
 
-<img src="https://github.com/TeamLider9141/TeamLider9141/blob/main/7SvE.gif" align="right" height="250" width="300">
+**Highlights**
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TeamLider9141\&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+- Telegram Bot
+- Expense & debt tracking
+- PostgreSQL
+- Docker
+- Google Apps Script integration
+- Cloud deployment
 
-<h3 align="left">Languages and Tools</h3>
+🌐 https://qarzflow.uz
 
-<p align="left">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
-  </a>
+---
 
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" height="50"/>
-  </a>
+### 🛠 Tech Stack
 
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50"/>
-  </a>
+**AI & Data**
 
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
-  </a>
+Python • Pandas • NumPy • Scikit-learn • LlamaIndex • Ollama • RAG • NLP
 
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50"/>
-  </a>
+**Backend**
 
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/>
-  </a>
+FastAPI • REST API • Telegram Bot API
 
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50"/>
-  </a>
+**Database**
 
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
-  </a>
+PostgreSQL • SQLite • SQL
 
-  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" height="50"/>
-  </a>
-</p>
+**DevOps**
 
-<h3 align="right">Connect with me: https://myurls.bio/ortiqakbarovich</h3>
+Docker • Linux • Git • GitHub • Redis • Nginx
 
-* 🔭 I'm currently building AI & Machine Learning projects
-* 🌱 I'm currently learning Deep Learning, LLMs, RAG, MLOps, and Data Engineering
-* 💡 Interested in AI Engineering, Data Science, and Intelligent Systems
-* 🤝 Open to collaborating on AI and open-source projects
+---
+
+### 🌱 Currently Learning
+
+- Deep Learning
+- Machine Learning
+- MLOps
+- Data Engineering
+- AI Agents
+- Vector Databases
+
+---
+
+### 📫 Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-TeamLider9141-181717?style=for-the-badge&logo=github)](https://github.com/TeamLider9141)
+
+[![Website](https://img.shields.io/badge/QarzFlow-Website-blue?style=for-the-badge)](https://qarzflow.uz)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-myurls.bio-orange?style=for-the-badge)](https://myurls.bio/ortiqakbarovich)
+
+<img src="https://github.com/TeamLider9141/TeamLider9141/blob/main/7SvE.gif" align="right" height="250"/>
 
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TeamLider9141&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TeamLider9141&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TeamLider9141&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeamLider9141&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TeamLider9141&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=TeamLider9141&theme=tokyonight&hide_border=true"/>
 </p>
