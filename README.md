@@ -80,23 +80,45 @@ I believe the best way to learn is by building real-world projects, so most of m
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🤖 JOA
-> **Local AI Coding Agent**
 
-Building a local AI coding assistant powered by **Ollama**, **LlamaIndex**, and **Retrieval-Augmented Generation (RAG)** for intelligent code understanding and document retrieval.
+**Local AI Coding Agent**
 
-**Tech:** `Python` • `Ollama` • `LlamaIndex` • `RAG`
+AI-powered coding assistant using Ollama, LlamaIndex and RAG.
 
----
+**Stack**
+
+`Python`
+`Ollama`
+`LlamaIndex`
+`RAG`
+
+</td>
+
+<td width="50%">
 
 ### 💰 QarzFlow
-> **Telegram Expense & Debt Management Platform**
 
-A real-world platform for managing shared expenses and debts through a **Telegram Bot**, backend APIs, and a web dashboard.
+**Telegram Expense Platform**
 
-**Tech:** `Telegram Bot API` • `FastAPI` • `PostgreSQL` • `Docker` • `Redis` • `Google Apps Script`
+Expense & debt tracking platform with Telegram Bot.
 
-🌐 **https://qarzflow.uz**
+**Stack**
+
+`FastAPI`
+`Telegram Bot API`
+`PostgreSQL`
+`Docker`
+
+🌐 **qarzflow.uz**
+
+</td>
+</tr>
+</table>
 
 ## GitHub Stats
 
