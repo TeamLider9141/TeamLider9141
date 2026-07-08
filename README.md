@@ -15,7 +15,7 @@ I believe the best way to learn is by building real projects, so most of my time
 🎓 **Bachelor's Degree in Software Engineering** — Tashkent University of Information Technologies (TUIT)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TeamLider9141)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/teamlider9141)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/Teamlider9141)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://myurls.bio/ortiqakbarovich)
 
 </p>
