@@ -4,19 +4,90 @@
 
 I'm a Software Engineering graduate from **Tashkent University of Information Technologies (TUIT)** with a strong interest in **Artificial Intelligence**, **Machine Learning**, and modern backend development.
 
-My primary focus is building intelligent applications powered by **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **Natural Language Processing (NLP)**, and data-driven systems.
+I'm passionate about building intelligent software powered by data and modern AI.
 
-Beyond AI, I enjoy building complete backend solutions using **Python**, **FastAPI**, **Telegram Bot API**, **PostgreSQL**, **Docker**, and **Linux**. I believe the best way to learn is by building real-world projects and continuously improving them.
+My current focus is on **Machine Learning**, **Retrieval-Augmented Generation (RAG)**, **Large Language Models (LLMs)**, **Natural Language Processing (NLP)**, and AI-powered applications.
+
+I enjoy building intelligent applications—from data processing and vector databases to backend APIs, Telegram bots, and deploying production-ready solutions.
+
+Beyond AI, I work with **Python**, **FastAPI**, **SQL**, **Linux**, **Docker**, **PostgreSQL**, **Git**, and cloud technologies while continuously expanding my knowledge of modern Data Science and Machine Learning.
+
+I believe the best way to learn is by building real-world projects, so most of my time is spent experimenting with new ideas and turning them into practical software.
+---
+
+<h3 align="left">Languages and Tools</h3>
+
+<p align="left">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
+  </a>
+
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" height="50"/>
+  </a>
+
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50"/>
+  </a>
+
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
+  </a>
+
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50"/>
+  </a>
+
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/>
+  </a>
+
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50"/>
+  </a>
+
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
+  </a>
+
+  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" height="50"/>
+  </a>
+</p>
+
+</p>
+
+**Skills:** Python • FastAPI • Telegram Bot API • SQL • PostgreSQL • SQLite • Linux • Docker • Git • Redis • Nginx • Google Apps Script • LlamaIndex • Ollama • RAG • C++ • C#
+
+<img src="https://github.com/TeamLider9141/TeamLider9141/blob/main/7SvE.gif" align="right" height="250" width="300">
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TeamLider9141\&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+## 🌱 Currently Learning
+
+- Deep Learning
+- Machine Learning
+- MLOps
+- Data Engineering
+- AI Agents
+- Vector Databases
+
+## 🚀 Featured Projects
+
+### 🤖 JOA — Local AI Coding Agent
+
+A local AI coding assistant powered by **Ollama**, **LlamaIndex**, and **RAG** for intelligent code understanding, document retrieval, and developer productivity.
+
+**Highlights**
+
+- Local LLM integration
+- Retrieval-Augmented Generation (RAG)
+- Intelligent code assistance
+- Document indexing & retrieval
 
 ---
 
-### 🚀 Featured Projects
-
-#### 🤖 JOA — Local AI Coding Agent
-
-A local AI coding assistant powered by **Ollama**, **LlamaIndex**, and **RAG** for intelligent code understanding and document retrieval.
-
-#### 💰 QarzFlow
+### 💰 QarzFlow
 
 An expense and debt management platform built around a **Telegram Bot**, backend APIs, and a web dashboard.
 
@@ -30,58 +101,47 @@ An expense and debt management platform built around a **Telegram Bot**, backend
 - Cloud deployment
 
 🌐 https://qarzflow.uz
+## 🛠 Tech Stack
 
+### 🤖 AI & Data
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- LlamaIndex
+- Ollama
+- RAG
+- NLP
+
+### ⚙️ Backend
+
+- FastAPI
+- REST API
+- Telegram Bot API
+
+### 🗄️ Database
+
+- PostgreSQL
+- SQLite
+- SQL
+
+### 🐧 DevOps
+
+- Docker
+- Linux
+- Git
+- GitHub
+- Redis
+- Nginx
 ---
-
-### 🛠 Tech Stack
-
-**AI & Data**
-
-Python • Pandas • NumPy • Scikit-learn • LlamaIndex • Ollama • RAG • NLP
-
-**Backend**
-
-FastAPI • REST API • Telegram Bot API
-
-**Database**
-
-PostgreSQL • SQLite • SQL
-
-**DevOps**
-
-Docker • Linux • Git • GitHub • Redis • Nginx
-
----
-
-### 🌱 Currently Learning
-
-- Deep Learning
-- Machine Learning
-- MLOps
-- Data Engineering
-- AI Agents
-- Vector Databases
-
----
-
-### 📫 Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-TeamLider9141-181717?style=for-the-badge&logo=github)](https://github.com/TeamLider9141)
-
-[![Website](https://img.shields.io/badge/QarzFlow-Website-blue?style=for-the-badge)](https://qarzflow.uz)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-myurls.bio-orange?style=for-the-badge)](https://myurls.bio/ortiqakbarovich)
-
-<img src="https://github.com/TeamLider9141/TeamLider9141/blob/main/7SvE.gif" align="right" height="250"/>
-
 ## GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TeamLider9141&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeamLider9141&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TeamLider9141&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TeamLider9141&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=TeamLider9141&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=TeamLider9141&theme=tokyonight&hide_border=true"/>
 </p>
