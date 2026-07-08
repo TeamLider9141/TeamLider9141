@@ -57,7 +57,20 @@ I believe the best way to learn is by building real-world projects, so most of m
 
 </p>
 
-**Skills:** Python • FastAPI • Telegram Bot API • SQL • PostgreSQL • SQLite • Linux • Docker • Git • Redis • Nginx • Google Apps Script • LlamaIndex • Ollama • RAG • C++ • C#
+## Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat&logo=telegram&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-black?style=flat)
+![Ollama](https://img.shields.io/badge/Ollama-black?style=flat)
+![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=flat)
+![Google_Apps_Script](https://img.shields.io/badge/Apps_Script-34A853?style=flat&logo=google&logoColor=white)
 
 <img src="https://github.com/TeamLider9141/TeamLider9141/blob/main/7SvE.gif" align="right" height="250" width="300">
 
