@@ -114,7 +114,7 @@ Expense & debt tracking platform with Telegram Bot.
 `PostgreSQL`
 `Docker`
 
-🌐 **qarzflow.uz**
+🌐 **https://qarzflow.uz** 
 
 </td>
 </tr>
