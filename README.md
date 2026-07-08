@@ -101,7 +101,7 @@ AI-powered coding assistant using Ollama, LlamaIndex and RAG.
 
 <td width="50%">
 
-### 💰 [QarzFlow](https://github.com/TeamLider9141/QarzFlow)
+### 💰 [QarzFlow](https://qarzflow.uz)
 
 **Telegram Expense Platform**
 
@@ -114,7 +114,7 @@ Expense & debt tracking platform with Telegram Bot.
 `PostgreSQL`
 `Docker`
 
-🌐 **https://qarzflow.uz** 
+🌐 **qarzflow.uz and tg @qarzflowbot** 
 
 </td>
 </tr>
