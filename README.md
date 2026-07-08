@@ -76,78 +76,28 @@ I believe the best way to learn is by building real-world projects, so most of m
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TeamLider9141\&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-## 🌱 Currently Learning
-
-- Deep Learning
-- Machine Learning
-- MLOps
-- Data Engineering
-- AI Agents
-- Vector Databases
+## 🌱 Currently Learning:  Machine Learning • MLOps • AI Agents • Vector DBs
 
 ## 🚀 Featured Projects
 
-### 🤖 JOA — Local AI Coding Agent
+### 🤖 JOA
+> **Local AI Coding Agent**
 
-A local AI coding assistant powered by **Ollama**, **LlamaIndex**, and **RAG** for intelligent code understanding, document retrieval, and developer productivity.
+Building a local AI coding assistant powered by **Ollama**, **LlamaIndex**, and **Retrieval-Augmented Generation (RAG)** for intelligent code understanding and document retrieval.
 
-**Highlights**
-
-- Local LLM integration
-- Retrieval-Augmented Generation (RAG)
-- Intelligent code assistance
-- Document indexing & retrieval
+**Tech:** `Python` • `Ollama` • `LlamaIndex` • `RAG`
 
 ---
 
 ### 💰 QarzFlow
+> **Telegram Expense & Debt Management Platform**
 
-An expense and debt management platform built around a **Telegram Bot**, backend APIs, and a web dashboard.
+A real-world platform for managing shared expenses and debts through a **Telegram Bot**, backend APIs, and a web dashboard.
 
-**Highlights**
+**Tech:** `Telegram Bot API` • `FastAPI` • `PostgreSQL` • `Docker` • `Redis` • `Google Apps Script`
 
-- Telegram Bot
-- Expense & debt tracking
-- PostgreSQL
-- Docker
-- Google Apps Script integration
-- Cloud deployment
+🌐 **https://qarzflow.uz**
 
-🌐 https://qarzflow.uz
-## 🛠 Tech Stack
-
-### 🤖 AI & Data
-
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- LlamaIndex
-- Ollama
-- RAG
-- NLP
-
-### ⚙️ Backend
-
-- FastAPI
-- REST API
-- Telegram Bot API
-
-### 🗄️ Database
-
-- PostgreSQL
-- SQLite
-- SQL
-
-### 🐧 DevOps
-
-- Docker
-- Linux
-- Git
-- GitHub
-- Redis
-- Nginx
----
 ## GitHub Stats
 
 <p align="center">
