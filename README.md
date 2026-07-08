@@ -84,7 +84,7 @@ I believe the best way to learn is by building real-world projects, so most of m
 <tr>
 <td width="50%">
 
-### 🤖 JOA
+### 🤖 [JOA — Local AI Coding Agent](https://github.com/TeamLider9141/JOA-AI-CODING-AGENT)
 
 **Local AI Coding Agent**
 
@@ -101,7 +101,7 @@ AI-powered coding assistant using Ollama, LlamaIndex and RAG.
 
 <td width="50%">
 
-### 💰 QarzFlow
+### 💰 [QarzFlow](https://github.com/TeamLider9141/QarzFlow)
 
 **Telegram Expense Platform**
 
