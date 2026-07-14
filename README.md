@@ -140,3 +140,7 @@ Expense & debt tracking platform with Telegram Bot.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TeamLider9141&theme=tokyo-night&hide_border=true" width="95%"/>
 </p>
 
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=TeamLider9141&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8"/>
+</p>
+
