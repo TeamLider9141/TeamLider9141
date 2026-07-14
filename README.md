@@ -84,50 +84,19 @@ I believe the best way to learn is by building real-world projects, so most of m
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 [JOA — Local AI Coding Agent](https://github.com/TeamLider9141/JOA-AI-CODING-AGENT)
-
-**Local AI Coding Agent**
-
-AI-powered coding assistant using Ollama, LlamaIndex and RAG.
-
-**Stack**
-
-`Python`
-`Ollama`
-`LlamaIndex`
-`RAG`
-
-</td>
-
-<td width="50%">
-
-### 💰 [QarzFlow](https://qarzflow.uz)
-
-**Telegram Expense Platform**
-
-Expense & debt tracking platform with Telegram Bot.
-
-**Stack**
-
-`FastAPI`
-`Telegram Bot API`
-`PostgreSQL`
-`Docker`
-
-🌐 **qarzflow.uz and tg @qarzflowbot** 
-
-</td>
-</tr>
-</table>
-
 <p align="center">
-<a href="https://github.com/TeamLider9141/JOA-AI-CODING-AGENT"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=TeamLider9141&repo=JOA-AI-CODING-AGENT&theme=tokyonight&hide_border=true"/></a>
-<a href="https://github.com/TeamLider9141/AI_phone_recommender_bot"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=TeamLider9141&repo=AI_phone_recommender_bot&theme=tokyonight&hide_border=true"/></a>
+<a href="https://github.com/TeamLider9141/JOA-AI-CODING-AGENT"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=TeamLider9141&repo=JOA-AI-CODING-AGENT&theme=tokyonight&hide_border=true&description_lines_count=2"/></a>
+<a href="https://github.com/TeamLider9141/AI_phone_recommender_bot"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=TeamLider9141&repo=AI_phone_recommender_bot&theme=tokyonight&hide_border=true&description_lines_count=2"/></a>
 </p>
+
+### 💰 QarzFlow — Telegram Expense Platform
+
+Expense & debt tracking platform with Telegram Bot, backend APIs, and a web dashboard.
+
+`FastAPI` `Telegram Bot API` `PostgreSQL` `Docker`
+
+[![Website](https://img.shields.io/badge/QarzFlow-qarzflow.uz-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://qarzflow.uz)
+[![Telegram Bot](https://img.shields.io/badge/Bot-%40qarzflowbot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/qarzflowbot)
 
 ## GitHub Stats
 
@@ -139,8 +108,3 @@ Expense & debt tracking platform with Telegram Bot.
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TeamLider9141&theme=tokyo-night&hide_border=true" width="95%"/>
 </p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=TeamLider9141&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8"/>
-</p>
-
