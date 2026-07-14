@@ -72,6 +72,10 @@ I believe the best way to learn is by building real-world projects, so most of m
 ![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=flat)
 ![Google_Apps_Script](https://img.shields.io/badge/Apps_Script-34A853?style=flat&logo=google&logoColor=white)
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=TeamLider9141&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
+</p>
+
 <img src="https://github.com/TeamLider9141/TeamLider9141/blob/main/7SvE.gif" align="right" height="250" width="300">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TeamLider9141\&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
@@ -120,10 +124,19 @@ Expense & debt tracking platform with Telegram Bot.
 </tr>
 </table>
 
+<p align="center">
+<a href="https://github.com/TeamLider9141/JOA-AI-CODING-AGENT"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=TeamLider9141&repo=JOA-AI-CODING-AGENT&theme=tokyonight&hide_border=true"/></a>
+<a href="https://github.com/TeamLider9141/AI_phone_recommender_bot"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=TeamLider9141&repo=AI_phone_recommender_bot&theme=tokyonight&hide_border=true"/></a>
+</p>
+
 ## GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TeamLider9141&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TeamLider9141&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TeamLider9141&theme=tokyo-night&hide_border=true" width="95%"/>
 </p>
 
