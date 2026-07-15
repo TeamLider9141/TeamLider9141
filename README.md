@@ -95,7 +95,7 @@ Expense & debt tracking platform with Telegram Bot, backend APIs, and a web dash
 
 `FastAPI` `Telegram Bot API` `PostgreSQL` `Docker`
 
-[![Website](https://img.shields.io/badge/QarzFlow-qarzflow.uz-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://qarzflow.uz)
+[![Website](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCqbbEO3CoP2AfkH9qlO-x8JFvM9fzKkXkQ9h4e8bt-A&s=10)](https://qarzflow.uz)
 [![Telegram Bot](https://img.shields.io/badge/Bot-%40qarzflowbot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/qarzflowbot)
 
 ## GitHub Stats
