@@ -103,7 +103,7 @@ Expense & debt tracking platform with Telegram Bot, backend APIs, and a web dash
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-iota-plum-88.vercel.app/api?username=TeamLider9141&show_icons=true&theme=transparent&title_color=26A5E4&icon_color=26A5E4&ring_color=26A5E4&border_color=26A5E4"/>
+  <img height="170" src="https://github-readme-stats-iota-plum-88.vercel.app/api?username=TeamLider9141&show_icons=true&count_private=true&theme=transparent&title_color=26A5E4&icon_color=26A5E4&ring_color=26A5E4&border_color=26A5E4"/>
   <img height="170" src="https://github-readme-stats-iota-plum-88.vercel.app/api/top-langs/?username=TeamLider9141&layout=compact&theme=transparent&title_color=26A5E4&border_color=26A5E4"/>
 </p>
 
