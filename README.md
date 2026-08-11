@@ -80,7 +80,7 @@ I believe the best way to learn is by building real-world projects, so most of m
 
 <img src="https://github.com/TeamLider9141/TeamLider9141/blob/main/7SvE.gif" align="right" height="250" width="300">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TeamLider9141&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TeamLider9141&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## 🌱 Currently Learning:  Machine Learning • MLOps • AI Agents • Vector DBs
 
