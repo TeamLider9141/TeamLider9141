@@ -87,8 +87,8 @@ I believe the best way to learn is by building real-world projects, so most of m
 ## 🚀 Featured Projects
 
 <p align="center">
-<a href="https://github.com/TeamLider9141/JOA-AI-CODING-AGENT"><img src="https://github-readme-stats-iota-plum-88.vercel.app/api/pin/?username=TeamLider9141&repo=JOA-AI-CODING-AGENT&theme=transparent&hide_border=true&description_lines_count=2"/></a>
-<a href="https://github.com/TeamLider9141/AI_phone_recommender_bot"><img src="https://github-readme-stats-iota-plum-88.vercel.app/api/pin/?username=TeamLider9141&repo=AI_phone_recommender_bot&theme=transparent&hide_border=true&description_lines_count=2"/></a>
+<a href="https://github.com/TeamLider9141/JOA-AI-CODING-AGENT"><img src="https://github-readme-stats-iota-plum-88.vercel.app/api/pin/?username=TeamLider9141&repo=JOA-AI-CODING-AGENT&theme=transparent&title_color=26A5E4&icon_color=26A5E4&border_color=26A5E4&description_lines_count=2"/></a>
+<a href="https://github.com/TeamLider9141/AI_phone_recommender_bot"><img src="https://github-readme-stats-iota-plum-88.vercel.app/api/pin/?username=TeamLider9141&repo=AI_phone_recommender_bot&theme=transparent&title_color=26A5E4&icon_color=26A5E4&border_color=26A5E4&description_lines_count=2"/></a>
 </p>
 
 ### 💰 QarzFlow — Telegram Expense Platform
@@ -97,16 +97,16 @@ Expense & debt tracking platform with Telegram Bot, backend APIs, and a web dash
 
 `FastAPI` `Telegram Bot API` `PostgreSQL` `Docker`
 
-[![Website](https://img.shields.io/badge/QarzFlow-qarzflow.uz-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://qarzflow.uz)
+[![Website](https://img.shields.io/badge/QarzFlow-qarzflow.uz-7C5CFF?style=for-the-badge&labelColor=101A33&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI%2BCiAgPGRlZnM%2BCiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImciIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjMDBjZmZmIi8%2BCiAgICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzdjNWNmZiIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iYmciIHgxPSIwIiB5MT0iMCIgeDI9IjAiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjMTAxYTMzIi8%2BCiAgICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzA3MGIxNCIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdyIgY3g9IjAuNSIgY3k9IjAuMzYiIHI9IjAuNiI%2BCiAgICAgIDxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzAwY2ZmZiIgc3RvcC1vcGFjaXR5PSIwLjMwIi8%2BCiAgICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzAwY2ZmZiIgc3RvcC1vcGFjaXR5PSIwIi8%2BCiAgICA8L3JhZGlhbEdyYWRpZW50PgogICAgPGZpbHRlciBpZD0iYiIgeD0iLTQwJSIgeT0iLTQwJSIgd2lkdGg9IjE4MCUiIGhlaWdodD0iMTgwJSI%2BCiAgICAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjE0Ii8%2BCiAgICA8L2ZpbHRlcj4KICA8L2RlZnM%2BCiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjUxMiIgaGVpZ2h0PSI1MTIiIHJ4PSIxMjAiIGZpbGw9InVybCgjYmcpIi8%2BCiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjUxMiIgaGVpZ2h0PSI1MTIiIHJ4PSIxMjAiIGZpbGw9InVybCgjZ2xvdykiLz4KICA8ZyBmaWxsPSJub25lIiBzdHJva2UtbGluZWNhcD0icm91bmQiPgogICAgPCEtLSBnbG93IHVuZGVyIC0tPgogICAgPGNpcmNsZSBjeD0iMjQ2IiBjeT0iMjQwIiByPSIxMTgiIHN0cm9rZT0idXJsKCNnKSIgc3Ryb2tlLXdpZHRoPSI1MCIgb3BhY2l0eT0iMC40NSIgZmlsdGVyPSJ1cmwoI2IpIi8%2BCiAgICA8bGluZSB4MT0iMzAwIiB5MT0iMjk2IiB4Mj0iMzcyIiB5Mj0iMzcyIiBzdHJva2U9InVybCgjZykiIHN0cm9rZS13aWR0aD0iNTAiIG9wYWNpdHk9IjAuNDUiIGZpbHRlcj0idXJsKCNiKSIvPgogICAgPCEtLSBjcmlzcCBRIC0tPgogICAgPGNpcmNsZSBjeD0iMjQ2IiBjeT0iMjQwIiByPSIxMTgiIHN0cm9rZT0idXJsKCNnKSIgc3Ryb2tlLXdpZHRoPSI1MCIvPgogICAgPGxpbmUgeDE9IjMwMCIgeTE9IjI5NiIgeDI9IjM3NiIgeTI9IjM3OCIgc3Ryb2tlPSJ1cmwoI2cpIiBzdHJva2Utd2lkdGg9IjU0Ii8%2BCiAgPC9nPgo8L3N2Zz4K)](https://qarzflow.uz)
 [![Telegram Bot](https://img.shields.io/badge/Bot-%40qarzflowbot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/qarzflowbot)
 
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-iota-plum-88.vercel.app/api?username=TeamLider9141&show_icons=true&theme=transparent&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats-iota-plum-88.vercel.app/api/top-langs/?username=TeamLider9141&layout=compact&theme=transparent&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-iota-plum-88.vercel.app/api?username=TeamLider9141&show_icons=true&theme=transparent&title_color=26A5E4&icon_color=26A5E4&ring_color=26A5E4&border_color=26A5E4"/>
+  <img height="170" src="https://github-readme-stats-iota-plum-88.vercel.app/api/top-langs/?username=TeamLider9141&layout=compact&theme=transparent&title_color=26A5E4&border_color=26A5E4"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TeamLider9141&bg_color=00000000&color=417E87&line=006AFF&point=0579C3&title_color=006AFF&area=true&area_color=006AFF&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TeamLider9141&bg_color=00000000&color=417E87&line=26A5E4&point=0088CC&title_color=26A5E4&area=true&area_color=26A5E4" width="95%"/>
 </p>
