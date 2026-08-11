@@ -87,8 +87,8 @@ I believe the best way to learn is by building real-world projects, so most of m
 ## 🚀 Featured Projects
 
 <p align="center">
-<a href="https://github.com/TeamLider9141/JOA-AI-CODING-AGENT"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=TeamLider9141&repo=JOA-AI-CODING-AGENT&theme=tokyonight&hide_border=true&description_lines_count=2"/></a>
-<a href="https://github.com/TeamLider9141/AI_phone_recommender_bot"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=TeamLider9141&repo=AI_phone_recommender_bot&theme=tokyonight&hide_border=true&description_lines_count=2"/></a>
+<a href="https://github.com/TeamLider9141/JOA-AI-CODING-AGENT"><img src="https://github-readme-stats-iota-plum-88.vercel.app/api/pin/?username=TeamLider9141&repo=JOA-AI-CODING-AGENT&theme=tokyonight&hide_border=true&description_lines_count=2"/></a>
+<a href="https://github.com/TeamLider9141/AI_phone_recommender_bot"><img src="https://github-readme-stats-iota-plum-88.vercel.app/api/pin/?username=TeamLider9141&repo=AI_phone_recommender_bot&theme=tokyonight&hide_border=true&description_lines_count=2"/></a>
 </p>
 
 ### 💰 QarzFlow — Telegram Expense Platform
@@ -103,8 +103,8 @@ Expense & debt tracking platform with Telegram Bot, backend APIs, and a web dash
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TeamLider9141&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TeamLider9141&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-iota-plum-88.vercel.app/api?username=TeamLider9141&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-iota-plum-88.vercel.app/api/top-langs/?username=TeamLider9141&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
