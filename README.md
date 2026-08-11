@@ -87,8 +87,8 @@ I believe the best way to learn is by building real-world projects, so most of m
 ## 🚀 Featured Projects
 
 <p align="center">
-<a href="https://github.com/TeamLider9141/JOA-AI-CODING-AGENT"><img src="https://github-readme-stats-iota-plum-88.vercel.app/api/pin/?username=TeamLider9141&repo=JOA-AI-CODING-AGENT&theme=tokyonight&hide_border=true&description_lines_count=2"/></a>
-<a href="https://github.com/TeamLider9141/AI_phone_recommender_bot"><img src="https://github-readme-stats-iota-plum-88.vercel.app/api/pin/?username=TeamLider9141&repo=AI_phone_recommender_bot&theme=tokyonight&hide_border=true&description_lines_count=2"/></a>
+<a href="https://github.com/TeamLider9141/JOA-AI-CODING-AGENT"><img src="https://github-readme-stats-iota-plum-88.vercel.app/api/pin/?username=TeamLider9141&repo=JOA-AI-CODING-AGENT&theme=transparent&hide_border=true&description_lines_count=2"/></a>
+<a href="https://github.com/TeamLider9141/AI_phone_recommender_bot"><img src="https://github-readme-stats-iota-plum-88.vercel.app/api/pin/?username=TeamLider9141&repo=AI_phone_recommender_bot&theme=transparent&hide_border=true&description_lines_count=2"/></a>
 </p>
 
 ### 💰 QarzFlow — Telegram Expense Platform
@@ -103,10 +103,10 @@ Expense & debt tracking platform with Telegram Bot, backend APIs, and a web dash
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-iota-plum-88.vercel.app/api?username=TeamLider9141&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats-iota-plum-88.vercel.app/api/top-langs/?username=TeamLider9141&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-iota-plum-88.vercel.app/api?username=TeamLider9141&show_icons=true&theme=transparent&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-iota-plum-88.vercel.app/api/top-langs/?username=TeamLider9141&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TeamLider9141&theme=tokyo-night&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TeamLider9141&bg_color=00000000&color=417E87&line=006AFF&point=0579C3&title_color=006AFF&area=true&area_color=006AFF&hide_border=true" width="95%"/>
 </p>
