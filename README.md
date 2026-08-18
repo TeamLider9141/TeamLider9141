@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:A78BFA&height=210&section=header&text=John%20Uik&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20AI%20Engineer%20%C2%B7%20Product%20Builder&descSize=18&descAlignY=58" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:A78BFA&height=210&section=header&text=Ortiq%20Akbarovich&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20AI%20Engineer%20%C2%B7%20Product%20Builder&descSize=18&descAlignY=58" width="100%" alt="header"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=8B5CF6&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+%2F+ML+%26+LLM+Systems+Engineer;Full+Stack+Developer;Local-First+AI+Tooling+Builder;Open+Source+Contributor" alt="typing-svg"/>
 
