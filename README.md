@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Education-B.Sc._Computer_Science-6366F1?style=flat-square&logo=googlescholar&logoColor=white" alt="degree"/>
+<img src="https://img.shields.io/badge/Education-B.Sc._Software_Engineer-6366F1?style=flat-square&logo=googlescholar&logoColor=white" alt="degree"/>
 <img src="https://img.shields.io/badge/Focus-AI_%26_Distributed_Systems-7C3AED?style=flat-square&logo=openaigym&logoColor=white" alt="focus"/>
 <img src="https://img.shields.io/badge/Location-Tashkent,_Uzbekistan-4F46E5?style=flat-square&logo=googlemaps&logoColor=white" alt="location"/>
 
