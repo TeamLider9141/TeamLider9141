@@ -4,24 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=0EA5E9&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+Engineer+%7C+Python+Developer;Data+Science+Student;LLM+%26+RAG+Systems+Builder;Open+Source+Contributor" alt="typing-svg"/>
 
-<br/>
-
-<img src="https://img.shields.io/badge/Education-B.Sc._Software_Engineer-0EA5E9?style=flat-square&logo=googlescholar&logoColor=white" alt="degree"/>
-<img src="https://img.shields.io/badge/Focus-AI_%26_Distributed_Systems-0284C7?style=flat-square&logo=openaigym&logoColor=white" alt="focus"/>
-<img src="https://img.shields.io/badge/Location-Tashkent,_Uzbekistan-38BDF8?style=flat-square&logo=googlemaps&logoColor=white" alt="location"/>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/johnuik"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-<a href="mailto:johnuik006@gmail.com"><img src="https://img.shields.io/badge/Email-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
-<a href="https://github.com/TeamLider9141"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=TeamLider9141&style=flat-square&color=0ea5e9&label=Profile+Views" alt="profile views"/>
-<a href="https://github.com/TeamLider9141?tab=followers"><img src="https://img.shields.io/github/followers/TeamLider9141?style=flat-square&color=0284C7&labelColor=0D1117&label=Followers" alt="followers"/></a>
-<a href="https://github.com/TeamLider9141?tab=repositories"><img src="https://img.shields.io/github/stars/TeamLider9141?style=flat-square&color=38BDF8&labelColor=0D1117&label=Stars" alt="stars"/></a>
-
 </div>
 
 ---
