@@ -8,59 +8,91 @@
 
 ---
 
-## About
+<h2>
+  Hi there <img src="https://camo.githubusercontent.com/4f4eee7c60f9fe5c49beed8a06c0324713678d5e89efc07126548fef46461464/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f674d3571466b73554c7735344e4d577972792f67697068792e6769663f6369643d6563663035653437793339666d72613230316e676a6f3830693662776670333862626335726b336f61686a616f796d37267269643d67697068792e6769662663743d73" width="35" alt="Waving hand">
+</h2> I'm Ortiq Akbarovich
 
-<img src="https://github.com/TeamLider9141/TeamLider9141/blob/main/7SvE.gif" align="right" height="250" width="300" alt="coding gif"/>
+### AI Engineer | Data Science Student | Python Developer
 
-Software Engineering graduate from **Tashkent University of Information Technologies (TUIT)**, focused on **AI systems, LLM infrastructure, and full stack product engineering**. I design and ship end-to-end systems — from hand-written retrieval cores and local-first inference pipelines to backend APIs, Telegram bots, and production deployments.
+I'm a Software Engineering graduate from **Tashkent University of Information Technologies (TUIT)** with a strong interest in **Artificial Intelligence**, **Machine Learning**, and modern backend development.
 
-- **Software Engineering** — disciplined, test-driven development with an emphasis on correctness, observability, and maintainable architecture
-- **AI / ML** — machine learning, retrieval-augmented generation, LLM application engineering, NLP, and CPU-constrained local inference
-- **Full Stack** — typed backends, modern React frontends, vector databases, and the DevOps glue that keeps them shipping
-- **Product Mindset** — I build for users, not demos: measured performance, honest trade-offs, and iteration driven by real usage. The best way to learn is by building real-world projects.
+I'm passionate about building intelligent software powered by data and modern AI.
 
-**Open To:** Software Engineer · AI/ML Engineer · Full Stack Engineer roles — remote or hybrid, product-driven teams.
+My current focus is on **Machine Learning**, **Retrieval-Augmented Generation (RAG)**, **Large Language Models (LLMs)**, **Natural Language Processing (NLP)**, and AI-powered applications.
 
+I enjoy building intelligent applications—from data processing and vector databases to backend APIs, Telegram bots, and deploying production-ready solutions.
+
+Beyond AI, I work with **Python**, **FastAPI**, **SQL**, **Linux**, **Docker**, **PostgreSQL**, **Git**, and cloud technologies while continuously expanding my knowledge of modern Data Science and Machine Learning.
+
+I believe the best way to learn is by building real-world projects, so most of my time is spent experimenting with new ideas and turning them into practical software.
 ---
 
-## Tech Stack
+<h3 align="left">Languages and Tools</h3>
 
-<div align="center">
+<p align="left">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
+  </a>
 
-**Languages**
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" height="50"/>
+  </a>
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,cpp,cs,bash,sqlite&theme=dark" alt="languages"/>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50"/>
+  </a>
 
-**Frontend**
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
+  </a>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" alt="frontend"/>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50"/>
+  </a>
 
-**Backend & Databases**
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/>
+  </a>
 
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,express,postgres,redis,mongodb&theme=dark" alt="backend"/>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50"/>
+  </a>
 
-**Cloud, DevOps & Tooling**
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
+  </a>
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,nginx,git,github,githubactions&theme=dark" alt="devops"/>
+  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" height="50"/>
+  </a>
+</p>
 
-**Core Skills**
+</p>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="python"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="fastapi"/>
-<img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="telegram"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="postgresql"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="docker"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="linux"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="redis"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="git"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="numpy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas"/>
-<img src="https://img.shields.io/badge/LlamaIndex-0D1117?style=flat-square" alt="llamaindex"/>
-<img src="https://img.shields.io/badge/Ollama-0D1117?style=flat-square" alt="ollama"/>
-<img src="https://img.shields.io/badge/RAG-4B8BBE?style=flat-square" alt="rag"/>
-<img src="https://img.shields.io/badge/Apps_Script-34A853?style=flat-square&logo=google&logoColor=white" alt="apps script"/>
+## Skills
 
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat&logo=telegram&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-black?style=flat)
+![Ollama](https://img.shields.io/badge/Ollama-black?style=flat)
+![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=flat)
+![Google_Apps_Script](https://img.shields.io/badge/Apps_Script-34A853?style=flat&logo=google&logoColor=white)
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=TeamLider9141&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
+</p>
+
+<img src="https://github.com/TeamLider9141/TeamLider9141/blob/main/7SvE.gif" align="right" height="250" width="300">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=TeamLider9141&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+## 🌱 Currently Learning:  Machine Learning • MLOps • AI Agents • Vector DBs
 
 ---
 
@@ -175,35 +207,6 @@ AI-powered Telegram bot that recommends phones based on user needs and budget.
 
 ---
 
-## Experience
-
-**AI Systems Engineer** · Independent / Open Source
-<br/>*2024 — Present*
-
-Design and delivery of local-first LLM systems: agentic coding assistants, hand-written RAG pipelines, and inference stacks that run on constrained consumer hardware.
-
-- Architected a from-scratch retrieval core (chunking, embeddings, ranking) replacing a framework-based prototype
-- Deployed and benchmarked quantized local models (GGUF via Ollama) for CPU-only production use
-- Built multi-agent adversarial review workflows for answer verification and quality control
-- Automated repository analytics, CI-driven documentation, and release hygiene across projects
-
-`Python` `LLM Engineering` `RAG` `Ollama` `Agents` `CI/CD`
-
-<br/>
-
-**Systems & DevOps Engineering** · Contract / Assessment Work
-<br/>*2023 — 2024*
-
-Infrastructure and reliability engineering for large-scale multiplayer game server environments.
-
-- Produced senior-level SRE runbooks: capacity math, SLO design, DR planning, and DDoS mitigation (conntrack-aware iptables strategies)
-- Designed gateway drain strategies, async-queue backpressure policies, and RPO-correct backup schedules
-- Authored incident-response playbooks covering database saturation, deployment failure, and observability outages
-
-`Linux` `SRE` `Incident Response` `Capacity Planning` `Networking`
-
----
-
 ## Achievements
 
 <div align="center">
@@ -220,45 +223,16 @@ Infrastructure and reliability engineering for large-scale multiplayer game serv
 
 ---
 
-## Certifications
+## GitHub Stats
 
-**AWS**
-<br/>
-<img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="aws-ccp"/>
+<p align="center">
+  <img height="170" src="https://github-readme-stats-iota-plum-88.vercel.app/api?username=TeamLider9141&show_icons=true&count_private=true&theme=transparent&title_color=26A5E4&icon_color=26A5E4&ring_color=26A5E4&border_color=26A5E4&v=2"/>
+  <img height="170" src="https://github-readme-stats-iota-plum-88.vercel.app/api/top-langs/?username=TeamLider9141&layout=compact&theme=transparent&title_color=26A5E4&border_color=26A5E4&v=2"/>
+</p>
 
-**Oracle**
-<br/>
-<img src="https://img.shields.io/badge/OCI_Foundations_Associate-C74634?style=flat-square&logo=oracle&logoColor=white" alt="oci"/>
-
-**NPTEL**
-<br/>
-<img src="https://img.shields.io/badge/Programming,_Data_Structures_%26_Algorithms-0284C7?style=flat-square&logoColor=white" alt="nptel-dsa"/>
-<img src="https://img.shields.io/badge/Machine_Learning-0EA5E9?style=flat-square&logoColor=white" alt="nptel-ml"/>
-
-**Cisco**
-<br/>
-<img src="https://img.shields.io/badge/CCNA:_Introduction_to_Networks-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="ccna"/>
-<img src="https://img.shields.io/badge/Cybersecurity_Essentials-049FD9?style=flat-square&logo=cisco&logoColor=white" alt="cyber"/>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TeamLider9141&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TeamLider9141&bg_color=0D1117&color=38BDF8&line=0EA5E9&point=FFFFFF&area=true&area_color=0284C7&hide_border=true" width="95%" alt="activity graph"/>
-
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TeamLider9141&bg_color=00000000&color=417E87&line=26A5E4&point=0088CC&title_color=26A5E4&area=true&area_color=26A5E4" width="95%"/>
+</p>
 
 ---
 
@@ -294,11 +268,3 @@ open_to:
   - Software Engineer / AI Engineer / Full Stack roles
   - Open source collaboration on local-first AI tooling
 ```
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0EA5E9,100:0284C7&height=140&section=footer" width="100%" alt="footer"/>
-
-</div>
