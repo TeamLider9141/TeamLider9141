@@ -12,6 +12,7 @@
 
 <br/><br/>
 
+<a href="https://www.linkedin.com/in/johnuik"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 <a href="mailto:johnuik006@gmail.com"><img src="https://img.shields.io/badge/Email-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
 <a href="https://github.com/TeamLider9141"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
 
@@ -48,15 +49,15 @@ Software engineer focused on **AI systems, LLM infrastructure, and full stack pr
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="frontend"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" alt="frontend"/>
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,redis,mongodb&theme=dark" alt="backend"/>
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,express,postgres,redis,mongodb&theme=dark" alt="backend"/>
 
 **Cloud, DevOps & Tooling**
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,githubactions&theme=dark" alt="devops"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,nginx,git,github,githubactions&theme=dark" alt="devops"/>
 
 </div>
 
@@ -149,6 +150,104 @@ Design and delivery of local-first LLM systems: agentic coding assistants, hand-
 - Automated repository analytics, CI-driven documentation, and release hygiene across projects
 
 `Python` `LLM Engineering` `RAG` `Ollama` `Agents` `CI/CD`
+
+<br/>
+
+**Systems & DevOps Engineering** · Contract / Assessment Work
+<br/>*2023 — 2024*
+
+Infrastructure and reliability engineering for large-scale multiplayer game server environments.
+
+- Produced senior-level SRE runbooks: capacity math, SLO design, DR planning, and DDoS mitigation (conntrack-aware iptables strategies)
+- Designed gateway drain strategies, async-queue backpressure policies, and RPO-correct backup schedules
+- Authored incident-response playbooks covering database saturation, deployment failure, and observability outages
+
+`Linux` `SRE` `Incident Response` `Capacity Planning` `Networking`
+
+---
+
+## Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|:-----------:|:--------|
+| Local-First AI Pioneer | Shipped a fully offline AI coding agent — zero cloud dependency, tracked public adoption |
+| Framework-Free RAG | Replaced LlamaIndex prototype with a hand-written retrieval core built for auditability |
+| Senior SRE Assessment | Completed a senior MMO DevOps/SRE technical assessment through multi-round adversarial review |
+| Consistent Contributor | Sustained daily open-source contribution streak with automated repo analytics |
+
+</div>
+
+---
+
+## Certifications
+
+**AWS**
+<br/>
+<img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="aws-ccp"/>
+
+**Oracle**
+<br/>
+<img src="https://img.shields.io/badge/OCI_Foundations_Associate-C74634?style=flat-square&logo=oracle&logoColor=white" alt="oci"/>
+
+**NPTEL**
+<br/>
+<img src="https://img.shields.io/badge/Programming,_Data_Structures_%26_Algorithms-0284C7?style=flat-square&logoColor=white" alt="nptel-dsa"/>
+<img src="https://img.shields.io/badge/Machine_Learning-0EA5E9?style=flat-square&logoColor=white" alt="nptel-ml"/>
+
+**Cisco**
+<br/>
+<img src="https://img.shields.io/badge/CCNA:_Introduction_to_Networks-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="ccna"/>
+<img src="https://img.shields.io/badge/Cybersecurity_Essentials-049FD9?style=flat-square&logo=cisco&logoColor=white" alt="cyber"/>
+
+---
+
+## Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/TeamLider9141"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="leetcode"/></a>
+<a href="https://www.geeksforgeeks.org/user/teamlider9141"><img src="https://img.shields.io/badge/GeeksforGeeks-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" alt="gfg"/></a>
+<a href="https://www.hackerrank.com/profile/johnuik006"><img src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64" alt="hackerrank"/></a>
+<a href="https://www.codechef.com/users/teamlider9141"><img src="https://img.shields.io/badge/CodeChef-0D1117?style=for-the-badge&logo=codechef&logoColor=white" alt="codechef"/></a>
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=TeamLider9141&show_icons=true&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=38BDF8&text_color=C9D1D9&count_private=true&include_all_commits=true" height="170" alt="stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TeamLider9141&hide_border=true&background=0D1117&ring=0EA5E9&fire=38BDF8&currStreakNum=FFFFFF&currStreakLabel=0EA5E9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" height="170" alt="streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeamLider9141&layout=compact&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=C9D1D9&langs_count=8" height="160" alt="top languages"/>
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=TeamLider9141&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TeamLider9141&bg_color=0D1117&color=38BDF8&line=0EA5E9&point=FFFFFF&area=true&area_color=0284C7&hide_border=true" width="95%" alt="activity graph"/>
+
+</div>
 
 ---
 
