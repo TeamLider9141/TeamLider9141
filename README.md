@@ -264,6 +264,6 @@ exploring:
   - Small-model agentic performance on CPU-only hardware
   - Low-resource NLP for the Uzbek language
 open_to:
-  - Software Engineer / AI Engineer / Full Stack roles
+  - Software Engineer / AI Engineer /
   - Open source collaboration on local-first AI tooling
 ```
