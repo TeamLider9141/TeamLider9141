@@ -99,9 +99,9 @@ I believe the best way to learn is by building real-world projects, so most of m
 
 | Domain | Proficiency | Details |
 |:-------|:-----------:|:--------|
-| LLM Application Engineering | Advanced | Agentic coding assistants, tool-use orchestration, prompt architecture, evaluation loops |
-| Retrieval-Augmented Generation | Advanced | Hand-written retrieval cores, chunking strategies, embedding pipelines (nomic-embed-text), hybrid ranking |
-| Local & Edge Inference | Advanced | Ollama-based deployment, CPU-only serving, quantized models (GGUF), memory-constrained optimization |
+| LLM Application Engineering | Basic  | Agentic coding assistants, tool-use orchestration, prompt architecture, evaluation loops |
+| Retrieval-Augmented Generation | Working | Hand-written retrieval cores, chunking strategies, embedding pipelines (nomic-embed-text), hybrid ranking |
+| Local & Edge Inference | Proficient | Ollama-based deployment, CPU-only serving, quantized models (GGUF), memory-constrained optimization |
 | Agent Systems | Proficient | Multi-agent review pipelines, adversarial verification workflows, structured-output tooling |
 | NLP | Proficient | Text normalization, low-resource language processing (Uzbek), classification and extraction pipelines |
 | MLOps | Working | Model versioning, reproducible inference environments, latency/throughput benchmarking |
